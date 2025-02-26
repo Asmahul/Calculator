@@ -1,0 +1,28 @@
+.welcome{
+  font-size: 30px;
+  margin-top: 50px;
+  font-weight: 600;
+}
+ 
+.row{
+  margin: 10px;
+  text-align: left;
+  padding: 0px 20px;
+}
+
+.del{
+  min-width: 50%;
+}
+
+.head{
+  font-weight: 600;
+  margin: 20px;
+}
+.container{
+  border:1px solid rgb(235, 232, 232);
+  padding: 10px;
+  
+}
+.btn{
+  width: 100px;
+}
